@@ -4,6 +4,6 @@
 // it is generalley better for prototyping projects.
 
 # Tools
-Visual studio 2022
-Unity 2020
+Visual studio 2022 -
+Unity 2020 -
 C# 10.0
